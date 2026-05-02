@@ -4,7 +4,14 @@ Standalone frontend page for handling password reset flow in DBSight.
 Deployed independently on Vercel for simplicity and scalability.
 
 ---
+#Demo
 
+
+https://github.com/user-attachments/assets/b64fb8d0-c6c7-4751-824c-32069ea1fff8
+
+[screen-capture (1).webm](https://github.com/user-attachments/assets/ff78da88-b28d-4477-94a4-c97282eec494)
+
+---
 ## 🧠 What This Does
 
 Provides a minimal UI for users to:
