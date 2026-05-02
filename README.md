@@ -7,9 +7,13 @@ Deployed independently on Vercel for simplicity and scalability.
 # Demo
 
 
-https://github.com/user-attachments/assets/b64fb8d0-c6c7-4751-824c-32069ea1fff8
 
-[screen-capture (1).webm](https://github.com/user-attachments/assets/ff78da88-b28d-4477-94a4-c97282eec494)
+
+https://github.com/user-attachments/assets/e97de5e7-e1e2-4ccb-a20d-649b04be1e89
+
+
+
+[resetpass.webm](https://github.com/user-attachments/assets/ff78da88-b28d-4477-94a4-c97282eec494)
 
 ---
 ## 🧠 What This Does
